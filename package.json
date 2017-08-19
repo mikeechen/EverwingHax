@@ -1,0 +1,27 @@
+{
+  "name": "everwinghax",
+  "version": "1.0.0",
+  "description": "alternative to the hax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IPFR33LY/EverwingHax.git"
+  },
+  "keywords": [
+    "everwing",
+    "hax"
+  ],
+  "author": "Michael Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IPFR33LY/EverwingHax/issues"
+  },
+  "homepage": "https://github.com/IPFR33LY/EverwingHax#readme",
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
